@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "งานวิจัยเกษตรอินทรีย์แบบคนติดดิน",
+    "description": "",
+    "home_page_url": "https://Pathomporn2707.github.io/my-blog",
+    "feed_url": "https://Pathomporn2707.github.io/my-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ปฐมพร ศรีลาเลิศ"
+    },
+    "items": [
+        {
+            "id": "https://Pathomporn2707.github.io/my-blog/kaarsnabsnun.html",
+            "url": "https://Pathomporn2707.github.io/my-blog/kaarsnabsnun.html",
+            "title": "การสนับสนุน",
+            "summary": "ถ้าหากต้องการสนับสนุนผม คุณสามารถบริจาคเป็น Bitcoin",
+            "content_html": "<p>ถ้าหากต้องการสนับสนุนผม คุณสามารถบริจาคเป็น Bitcoin</p>",
+            "author": {
+                "name": "ปฐมพร ศรีลาเลิศ"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-05T23:15:33+07:00",
+            "date_modified": "2026-05-13T21:46:57+07:00"
+        }
+    ]
+}
